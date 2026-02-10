@@ -1,0 +1,142 @@
+super_bowl,musician,num_songs,performance_rating,musician2,musician3
+1,University of Arizona Symphonic Marching Band,3,2.9,N/A,N/A
+1,Al Hirt,3,2.9,N/A,N/A
+1,Grambling State University Tiger Marching Band,4,2.9,N/A,N/A
+2,Grambling State University Tiger Marching Band,4,4.1,N/A,N/A
+3,Florida A&M University Marching 100 Band,2,4.3,N/A,N/A
+4,Al Hirt,3,4.5,N/A,N/A
+4,The Human Jukebox,6,4.5,N/A,N/A
+4,Marguerite Piazza,4,4.5,N/A,N/A
+4,Doc Severinsen,3,4.5,N/A,N/A
+5,Southeast Missouri State Marching Band,2,4.6,N/A,N/A
+6,United States Air Force Academy Cadet Chorale,1,5.5,N/A,N/A
+6,Al Hirt,2,5.5,N/A,N/A
+6,Carol Channing,1,5.5,N/A,N/A
+6,Ella Fitzgerald,1,5.5,N/A,N/A
+7,Andy Williams,2,5.2,N/A,N/A
+7,Woody Herman,2,5.2,N/A,N/A
+7,University of Michigan Marching Band,3,5.2,N/A,N/A
+8,Judy Mallett,2,5.1,N/A,N/A
+8,University of Texas Longhorn Band,3,5.1,N/A,N/A
+9,Mercer Ellington,2,5.4,N/A,N/A
+9,Grambling State University Tiger Marching Band,2,5.4,N/A,N/A
+10,Up with People,5,5.5,N/A,N/A
+11,Los Angeles Unified School District All City Honor Marching Band,3,5.9,N/A,N/A
+12,Al Hirt,2,7.2,N/A,N/A
+12,Pete Fountain,5,7.2,N/A,N/A
+12,Tyler Junior College Apache Band,4,7.2,N/A,N/A
+13,Gramacks,2,6.9,N/A,N/A
+13,Ken Hamilton,5,6.9,N/A,N/A
+14,Grambling State University Tiger Marching Band,5,7,N/A,N/A
+14,Up with People,8,7,N/A,N/A
+15,Helen O'Connell,1,6.4,N/A,N/A
+15,The Human Jukebox,5,6.4,N/A,N/A
+16,Up with People,4,7.7,N/A,N/A
+17,Los Angeles Unified School District All City Honor Marching Band,6,7.4,N/A,N/A
+18,The University of Florida Fightin' Gator Marching Band,7,7.1,N/A,N/A
+18,The Florida State University Marching Chiefs,7,7.1,N/A,N/A
+19,Tops In Blue,4,7.7,N/A,N/A
+20,Up with People,6,8.3,N/A,N/A
+21,Grambling State University Tiger Marching Band,8,7.9,N/A,N/A
+21,Spirit of Troy,8,7.9,N/A,N/A
+22,Spirit of Troy,8,7.3,N/A,N/A
+22,San Diego State University Marching Aztecs,4,7.3,N/A,N/A
+22,Chubby Checker,2,7.3,N/A,N/A
+23,Elvis Presto,7,7.4,N/A,N/A
+24,Pride of Acadiana,4,6.8,N/A,N/A
+24,The Human Jukebox,7,6.8,N/A,N/A
+24,Pride of Nicholls Marching Band,5,6.8,N/A,N/A
+24,Irma Thomas,1,6.8,N/A,N/A
+24,Doug Kershaw,1,6.8,N/A,N/A
+24,Pete Fountain,1,6.8,N/A,N/A
+25,New Kids on the Block,2,7.3,N/A,N/A
+26,Gloria Estefan,2,7.3,N/A,N/A
+26,University of Minnesota Marching Band,5,7.3,N/A,N/A
+27,Michael Jackson,5,8.2,N/A,N/A
+28,Wynonna Judd,2,8.1,N/A,N/A
+28,The Judds,1,8.1,N/A,N/A
+28,Travis Tritt,2,8.1,N/A,N/A
+28,Tanya Tucker,2,8.1,N/A,N/A
+28,Clint Black,2,8.1,N/A,N/A
+29,Miami Sound Machine,1,7.6,N/A,N/A
+29,Arturo Sandoval,2,7.6,N/A,N/A
+29,Tony Bennett,2,7.6,N/A,N/A
+29,Patti Labelle,3,7.6,N/A,N/A
+30,Diana Ross,10,8.4,N/A,N/A
+31,The Blues Brothers,3,7.9,N/A,N/A
+31,ZZ Top,3,7.9,N/A,N/A
+31,James Brown,3,7.9,N/A,N/A
+32,The Temptations,4,8.1,N/A,N/A
+32,Martha Reeves,2,8.1,N/A,N/A
+32,Boyz II Men,3,8.1,N/A,N/A
+32,Queen Latifah,2,8.1,N/A,N/A
+32,Grambling State University Tiger Marching Band,1,8.1,N/A,N/A
+32,Smokey Robinson,3,8.1,N/A,N/A
+33,Big Bad Voodoo Daddy,1,7.6,N/A,N/A
+33,Stevie Wonder,4,7.6,N/A,N/A
+33,Gloria Estefan,3,7.6,N/A,N/A
+34,Toni Braxton,1,8,N/A,N/A
+34,Enrique Iglesias,1,8,N/A,N/A
+34,Christina Aguilera,1,8,N/A,N/A
+34,Phil Collins,1,8,N/A,N/A
+35,Nelly,1,7.6,N/A,N/A
+35,Mary J. Blige,1,7.6,N/A,N/A
+35,Britney Spears,1,7.6,N/A,N/A
+35,NSYNC,3,7.6,N/A,N/A
+35,Aerosmith,3,7.6,N/A,N/A
+36,U2,3,7.8,N/A,N/A
+37,Shania Twain,2,8,N/A,N/A
+37,No Doubt,2,8,N/A,N/A
+37,Sting,1,8,N/A,N/A
+38,The Spirit of Houston Cougar Marching Band,1,8.1,N/A,N/A
+38,The Ocean of Soul Marching Band,1,8.1,N/A,N/A
+38,Justin Timberlake,1,8.1,N/A,N/A
+38,Kid Rock,2,8.1,N/A,N/A
+38,Nelly,1,8.1,N/A,N/A
+38,P. Diddy,3,8.1,N/A,N/A
+38,Janet Jackson,3,8.1,N/A,N/A
+38,Jessica Simpson,1,8.1,N/A,N/A
+39,Paul McCartney,4,7.8,N/A,N/A
+40,The Rolling Stones,3,8.1,N/A,N/A
+41,Florida A&M University Marching 100 Band,1,8.3,N/A,N/A
+41,Prince,7,8.3,N/A,N/A
+42,Tom Petty & the Heartbreakers,4,8.7,N/A,N/A
+43,Bruce Springsteen and the E Street Band,4,8.8,N/A,N/A
+44,The Who,5,9.4,N/A,N/A
+45,Usher,1,9.7,N/A,N/A
+45,Slash,1,9.7,N/A,N/A
+45,The Black Eyed Peas,6,9.7,N/A,N/A
+45,will.i.am,1,9.7,N/A,N/A
+45,Fergie,1,9.7,N/A,N/A
+46,Cee Lo Green,2,9.8,N/A,N/A
+46,M.I.A.,1,9.8,N/A,N/A
+46,Nicki Minaj,1,9.8,N/A,N/A
+46,LMFAO,1,9.8,N/A,N/A
+46,Madonna,5,9.8,N/A,N/A
+47,Beyoncé,7,9.5,N/A,N/A
+47,Kelly Rowland,1,9.5,N/A,N/A
+47,Destiny's Child,2,9.5,N/A,N/A
+47,Michelle Williams,1,9.5,N/A,N/A
+48,Bruno Mars,6,9.8,N/A,N/A
+48,Red Hot Chili Peppers,1,9.8,N/A,N/A
+49,Missy Elliott,3,10,N/A,N/A
+49,Lenny Kravitz,1,10,N/A,N/A
+49,Katy Perry,8,10,N/A,N/A
+49,Arizona State University Sun Devil Marching Band,1,10,N/A,N/A
+50,Gustavo Dudamel,3,9.8,N/A,N/A
+50,University of California Marching Band,3,9.8,N/A,N/A
+50,Mark Ronson,1,9.8,N/A,N/A
+50,Bruno Mars,3,9.8,N/A,N/A
+50,Beyonce,3,9.8,N/A,N/A
+50,Coldplay,6,9.8,N/A,N/A
+50,Youth Orchestra Los Angeles,3,9.8,N/A,N/A
+51,Lady Gaga,7,9.8,N/A,N/A
+52,Justin Timberlake,11,9.1,N/A,N/A
+52,University of Minnesota Marching Band,1,9.1,N/A,N/A
+53,Maroon 5,9,1,Travis Scott,Big Boi
+54,Shakira,7,1,Jennifer Lopez,Bad Bunny
+55,The Weeknd,9,1,N/A,N/A
+56,Dr. Dre,4,1,Snoop Dogg,Eminem / Mary J. Blige / Kendrick Lamar
+57,Rihanna,12,1,N/A,N/A
+58,Usher,13,1,N/A,N/A
+59,Kendrick Lamar,10,1,N/A,N/A

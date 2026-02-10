@@ -1,0 +1,45 @@
+year,Product Type,Product/Title,plot_category
+1969,Car,"Chrysler ""Scuba Diver""[4]",Promo
+1970,Car,"Pontiac""Humbler""",Promo
+1975,Security,"Master Lock""Rifle""",Promo
+1976,Copy,"Xerox""Monks""",Promo
+1979,Soft drink,"Coca-Cola""Hey Kid, Catch!""",Promo
+1981,Camera,"Polaroid""Now with a Flash""",Promo
+1982,Computer,"RadioShack""Color Computer""",Promo
+1984,Computer,"Apple Inc.""1984""",Promo
+1988,Food,Doritos tortilla chips,Promo
+1989,Beer,Budweiser,Promo
+1990,Car,"Nissan""Turbocharged Dream""",Promo
+1992,Soft Drink,"Pepsi""Cindy Crawford""",Promo
+1993,Restaurant,"McDonald's""Showdown""",Promo
+1994,Car,Jeep,Promo
+1996,Film,Independence Day,Promo
+1997,Car,"Nissan""Pigeons""",Promo
+1998,Beer,"Bud Light""Chicken Pool""",Promo
+1999,Beer,"Bud Light""Paper or Plastic""",Promo
+2000,Beer,"Bud Light""Elevator""",Nostalgic
+2001,Beer,"Budweiser""We Are Not Alone""",Promo
+2002,Beer,"Budweiser""Clydesdale Respect""",Promo
+2003,Film,Anger Management,Promo
+2004,Beer,"Budweiser""Donkey""",Inspirational
+2005,Beer,"Budweiser""Audition""",Inspirational
+2006,Film,16 Blocks,Promo
+2008,Beer,"Bud Light""Cavemen""",Promo
+2009,Beer,"Bud Light""Conan""",Promo
+2010,Beer,"Bud Light""Beer House""",Promo
+2011,Beer,"Bud Light""Hack Job""",Promo
+2012,Beer,"Bud Light""Factory""",Promo
+2013,Car,"Audi""Prom""",Promo
+2014,Beer,"Budweiser ""Puppy Love""",Nostalgic
+2015,Adhesives,Loctite,Promo
+2016,Beer,"Budweiser ""Born the Hard Way""",Inspirational
+2017,Soft Drink,"Pepsi ""More Than Ok""",Funny
+2018,Food,"Doritos ""Blaze vs Mountain Dew""",Funny
+2019,Food,"Planters ""The King's Court(Mr Peanut)""",Nostalgic
+2020,Beer,"Presidente ""Never Left""",Promo
+2021,Car,"Jeep ""The Middle""",Nostalgic
+2022,Beer,"Budweiser ""Wind Never Felt Better""",Inspirational
+2023,Mortgage,"Rocket Mortgage ""Jon Hamm Uncle Rico""",Funny
+2024,Technology,"Amazon Alexa ""Alexa Body""",Funny
+2025,Car,"Toyota ""Good Odds""",Inspirational
+2026,Food,"Instacart ""Commercial""",Funny
